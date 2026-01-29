@@ -5,7 +5,7 @@ lifecycle. I have particularly focused on backend development, gaining significa
 ecosystem. Currently, i work as a Full Stack Developer, actively contributing to software development
 processes using .NET on the backend and Vue.js on the frontend, along with various other technologies.</h3>
 <br>
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Furat35" target="_blank" rel="noreferrer">Github</a><br>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ofirat35" target="_blank" rel="noreferrer">Github</a><br>
 - 📫 Reach me via  <a href="mailto:ortac.firat35@gmail.com" target="_blank" rel="noreferrer">Mail</a>
 
 <h3 align="left">Connect with me:</h3>
